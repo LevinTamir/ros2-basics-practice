@@ -1,0 +1,5 @@
+# Build and development artifacts
+build/
+install/
+log/
+devel/
